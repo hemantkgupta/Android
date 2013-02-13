@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/11/trunk/HFA_Chapter_6_final/src/com/headfirstlabs/ch06/nasa/iotd
+END
+NasaIotd.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/11/trunk/HFA_Chapter_6_final/src/com/headfirstlabs/ch06/nasa/iotd/NasaIotd.java
+END
+EdNewsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/11/trunk/HFA_Chapter_6_final/src/com/headfirstlabs/ch06/nasa/iotd/EdNewsHandler.java
+END
+IotdHandlerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/11/trunk/HFA_Chapter_6_final/src/com/headfirstlabs/ch06/nasa/iotd/IotdHandlerListener.java
+END
+NasaApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/HFA_Chapter_6_final/src/com/headfirstlabs/ch06/nasa/iotd/NasaApp.java
+END
+EdNewsAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/11/trunk/HFA_Chapter_6_final/src/com/headfirstlabs/ch06/nasa/iotd/EdNewsAdapter.java
+END
+NasaEdNews.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/11/trunk/HFA_Chapter_6_final/src/com/headfirstlabs/ch06/nasa/iotd/NasaEdNews.java
+END
+IotdHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/11/trunk/HFA_Chapter_6_final/src/com/headfirstlabs/ch06/nasa/iotd/IotdHandler.java
+END
