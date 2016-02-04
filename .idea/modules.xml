@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApiDemos/ApiDemos.iml" filepath="$PROJECT_DIR$/ApiDemos/ApiDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_10_Earthquake_Part_1/Chapter_10_Earthquake_Part_1.iml" filepath="$PROJECT_DIR$/Chapter_10_Earthquake_Part_1/Chapter_10_Earthquake_Part_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_10_Earthquake_Part_2/Chapter_10_Earthquake_Part_2.iml" filepath="$PROJECT_DIR$/Chapter_10_Earthquake_Part_2/Chapter_10_Earthquake_Part_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_10_Earthquake_Part_3/Chapter_10_Earthquake_Part_3.iml" filepath="$PROJECT_DIR$/Chapter_10_Earthquake_Part_3/Chapter_10_Earthquake_Part_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_11_Compass/Chapter_11_Compass.iml" filepath="$PROJECT_DIR$/Chapter_11_Compass/Chapter_11_Compass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_12_Artificial_Horizon/Chapter_12_Artificial_Horizon.iml" filepath="$PROJECT_DIR$/Chapter_12_Artificial_Horizon/Chapter_12_Artificial_Horizon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_12_GForceMeter/Chapter_12_GForceMeter.iml" filepath="$PROJECT_DIR$/Chapter_12_GForceMeter/Chapter_12_GForceMeter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_12_Weather_Station/Chapter_12_Weather_Station.iml" filepath="$PROJECT_DIR$/Chapter_12_Weather_Station/Chapter_12_Weather_Station.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_13_Earthquake/Chapter_13_Earthquake.iml" filepath="$PROJECT_DIR$/Chapter_13_Earthquake/Chapter_13_Earthquake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_13_Where_Am_I_Part_1/Chapter_13_Where_Am_I_Part_1.iml" filepath="$PROJECT_DIR$/Chapter_13_Where_Am_I_Part_1/Chapter_13_Where_Am_I_Part_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_13_Where_Am_I_Part_2/Chapter_13_Where_Am_I_Part_2.iml" filepath="$PROJECT_DIR$/Chapter_13_Where_Am_I_Part_2/Chapter_13_Where_Am_I_Part_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_13_Where_Am_I_Part_3/Chapter_13_Where_Am_I_Part_3.iml" filepath="$PROJECT_DIR$/Chapter_13_Where_Am_I_Part_3/Chapter_13_Where_Am_I_Part_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_13_Where_Am_I_Part_4/Chapter_13_Where_Am_I_Part_4.iml" filepath="$PROJECT_DIR$/Chapter_13_Where_Am_I_Part_4/Chapter_13_Where_Am_I_Part_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_13_Where_Am_I_Part_5/Chapter_13_Where_Am_I_Part_5.iml" filepath="$PROJECT_DIR$/Chapter_13_Where_Am_I_Part_5/Chapter_13_Where_Am_I_Part_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_14_Earthquake_Part_1/Chapter_14_Earthquake_Part_1.iml" filepath="$PROJECT_DIR$/Chapter_14_Earthquake_Part_1/Chapter_14_Earthquake_Part_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_14_Earthquake_Part_2/Chapter_14_Earthquake_Part_2.iml" filepath="$PROJECT_DIR$/Chapter_14_Earthquake_Part_2/Chapter_14_Earthquake_Part_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_14_Earthquake_Part_3/Chapter_14_Earthquake_Part_3.iml" filepath="$PROJECT_DIR$/Chapter_14_Earthquake_Part_3/Chapter_14_Earthquake_Part_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_14_Earthquake_Part_4/Chapter_14_Earthquake_Part_4.iml" filepath="$PROJECT_DIR$/Chapter_14_Earthquake_Part_4/Chapter_14_Earthquake_Part_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_17_Emergency_Responder_Part_1/Chapter_17_Emergency_Responder_Part_1.iml" filepath="$PROJECT_DIR$/Chapter_17_Emergency_Responder_Part_1/Chapter_17_Emergency_Responder_Part_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_17_Emergency_Responder_Part_2/Chapter_17_Emergency_Responder_Part_2.iml" filepath="$PROJECT_DIR$/Chapter_17_Emergency_Responder_Part_2/Chapter_17_Emergency_Responder_Part_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_4_Compass/Chapter_4_Compass.iml" filepath="$PROJECT_DIR$/Chapter_4_Compass/Chapter_4_Compass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_4_To-do_List_Part_1/Chapter_4_To-do_List_Part_1.iml" filepath="$PROJECT_DIR$/Chapter_4_To-do_List_Part_1/Chapter_4_To-do_List_Part_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_4_To-do_List_Part_2/Chapter_4_To-do_List_Part_2.iml" filepath="$PROJECT_DIR$/Chapter_4_To-do_List_Part_2/Chapter_4_To-do_List_Part_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_4_To-do_List_Part_3/Chapter_4_To-do_List_Part_3.iml" filepath="$PROJECT_DIR$/Chapter_4_To-do_List_Part_3/Chapter_4_To-do_List_Part_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_4_To-do_List_Part_4/Chapter_4_To-do_List_Part_4.iml" filepath="$PROJECT_DIR$/Chapter_4_To-do_List_Part_4/Chapter_4_To-do_List_Part_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_5_Contact_Picker/Chapter_5_Contact_Picker.iml" filepath="$PROJECT_DIR$/Chapter_5_Contact_Picker/Chapter_5_Contact_Picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_6_Earthquake/Chapter_6_Earthquake.iml" filepath="$PROJECT_DIR$/Chapter_6_Earthquake/Chapter_6_Earthquake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_7_Earthquake_Part_1/Chapter_7_Earthquake_Part_1.iml" filepath="$PROJECT_DIR$/Chapter_7_Earthquake_Part_1/Chapter_7_Earthquake_Part_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_7_Earthquake_Part_2/Chapter_7_Earthquake_Part_2.iml" filepath="$PROJECT_DIR$/Chapter_7_Earthquake_Part_2/Chapter_7_Earthquake_Part_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_8_Earthquake_Part_1/Chapter_8_Earthquake_Part_1.iml" filepath="$PROJECT_DIR$/Chapter_8_Earthquake_Part_1/Chapter_8_Earthquake_Part_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_8_Earthquake_Part_2/Chapter_8_Earthquake_Part_2.iml" filepath="$PROJECT_DIR$/Chapter_8_Earthquake_Part_2/Chapter_8_Earthquake_Part_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_8_Earthquake_Part_3/Chapter_8_Earthquake_Part_3.iml" filepath="$PROJECT_DIR$/Chapter_8_Earthquake_Part_3/Chapter_8_Earthquake_Part_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_8_To-do_List/Chapter_8_To-do_List.iml" filepath="$PROJECT_DIR$/Chapter_8_To-do_List/Chapter_8_To-do_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_9_Earthquake_Part_1/Chapter_9_Earthquake_Part_1.iml" filepath="$PROJECT_DIR$/Chapter_9_Earthquake_Part_1/Chapter_9_Earthquake_Part_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_9_Earthquake_Part_2/Chapter_9_Earthquake_Part_2.iml" filepath="$PROJECT_DIR$/Chapter_9_Earthquake_Part_2/Chapter_9_Earthquake_Part_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter_9_Earthquake_Part_3/Chapter_9_Earthquake_Part_3.iml" filepath="$PROJECT_DIR$/Chapter_9_Earthquake_Part_3/Chapter_9_Earthquake_Part_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomDialog/CustomDialog.iml" filepath="$PROJECT_DIR$/CustomDialog/CustomDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HFA_Chapter_10/HFA_Chapter_10.iml" filepath="$PROJECT_DIR$/HFA_Chapter_10/HFA_Chapter_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HFA_Chapter_11/HFA_Chapter_11.iml" filepath="$PROJECT_DIR$/HFA_Chapter_11/HFA_Chapter_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HFA_Chapter_12/HFA_Chapter_12.iml" filepath="$PROJECT_DIR$/HFA_Chapter_12/HFA_Chapter_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HFA_Chapter_6/HFA_Chapter_6.iml" filepath="$PROJECT_DIR$/HFA_Chapter_6/HFA_Chapter_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HFA_Chapter_6_final/HFA_Chapter_6_final.iml" filepath="$PROJECT_DIR$/HFA_Chapter_6_final/HFA_Chapter_6_final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HFA_Chapter_7/HFA_Chapter_7.iml" filepath="$PROJECT_DIR$/HFA_Chapter_7/HFA_Chapter_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HFA_Chapter_8/HFA_Chapter_8.iml" filepath="$PROJECT_DIR$/HFA_Chapter_8/HFA_Chapter_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HFA_Chapter_9/HFA_Chapter_9.iml" filepath="$PROJECT_DIR$/HFA_Chapter_9/HFA_Chapter_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloAutoComplete/HelloAutoComplete.iml" filepath="$PROJECT_DIR$/HelloAutoComplete/HelloAutoComplete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloDatePicker/HelloDatePicker.iml" filepath="$PROJECT_DIR$/HelloDatePicker/HelloDatePicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloFormStuff/HelloFormStuff.iml" filepath="$PROJECT_DIR$/HelloFormStuff/HelloFormStuff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloGallery/HelloGallery.iml" filepath="$PROJECT_DIR$/HelloGallery/HelloGallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloGridView/HelloGridView.iml" filepath="$PROJECT_DIR$/HelloGridView/HelloGridView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloLinearLayout/HelloLinearLayout.iml" filepath="$PROJECT_DIR$/HelloLinearLayout/HelloLinearLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloListView/HelloListView.iml" filepath="$PROJECT_DIR$/HelloListView/HelloListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloListViewResourceStringArray/HelloListViewResourceStringArray.iml" filepath="$PROJECT_DIR$/HelloListViewResourceStringArray/HelloListViewResourceStringArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloRelativeLayout/HelloRelativeLayout.iml" filepath="$PROJECT_DIR$/HelloRelativeLayout/HelloRelativeLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloSpinner/HelloSpinner.iml" filepath="$PROJECT_DIR$/HelloSpinner/HelloSpinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloTabWidget/HelloTabWidget.iml" filepath="$PROJECT_DIR$/HelloTabWidget/HelloTabWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloTableLayout/HelloTableLayout.iml" filepath="$PROJECT_DIR$/HelloTableLayout/HelloTableLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloTimePicker/HelloTimePicker.iml" filepath="$PROJECT_DIR$/HelloTimePicker/HelloTimePicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWebView/HelloWebView.iml" filepath="$PROJECT_DIR$/HelloWebView/HelloWebView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageViewTest/ImageViewTest.iml" filepath="$PROJECT_DIR$/ImageViewTest/ImageViewTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAPIDemos/MyAPIDemos.iml" filepath="$PROJECT_DIR$/MyAPIDemos/MyAPIDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notepad1/Notepad1.iml" filepath="$PROJECT_DIR$/Notepad1/Notepad1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgressBar/ProgressBar.iml" filepath="$PROJECT_DIR$/ProgressBar/ProgressBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgressBarTest/ProgressBarTest.iml" filepath="$PROJECT_DIR$/ProgressBarTest/ProgressBarTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PromptDialogTest/PromptDialogTest.iml" filepath="$PROJECT_DIR$/PromptDialogTest/PromptDialogTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shelves/Shelves.iml" filepath="$PROJECT_DIR$/Shelves/Shelves.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestListActivity/TestListActivity.iml" filepath="$PROJECT_DIR$/TestListActivity/TestListActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestListView/TestListView.iml" filepath="$PROJECT_DIR$/TestListView/TestListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestListViewWithAdapter/TestListViewWithAdapter.iml" filepath="$PROJECT_DIR$/TestListViewWithAdapter/TestListViewWithAdapter.iml" />
+    </modules>
+  </component>
+</project>
+
